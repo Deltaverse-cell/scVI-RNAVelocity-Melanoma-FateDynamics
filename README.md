@@ -44,5 +44,6 @@ GEO access link:
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE72056
 
 Raw sequencing data were processed using the preprocessing and latent modelling pipeline described in this study.
-
+All computational scripts, preprocessing workflows, latent-space modelling pipelines, transition operators, perturbation-analysis modules, precomputed result arrays, and figures are publicly available through this repository.
+This repository is distributed under the MIT License.
 ---
