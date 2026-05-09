@@ -3,6 +3,7 @@
 This repository contains the computational framework and reproducible analysis pipeline accompanying the study:
 
 **“scVI- and RNA Velocity–Integrated Fate Dynamics Reveal Latent Stability Architecture in Melanoma Therapy Resistance.”**
+Author: Pranshu Bharadwaj
 
 The framework integrates variational latent manifold learning, RNA velocity dynamics, absorbing Markov fate inference, entropy-based terminal-state detection, perturbation-response modelling, and probabilistic stability analysis to reconstruct long-term cellular fate organization from single-cell transcriptomic data.
 
